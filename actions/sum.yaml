@@ -1,8 +1,8 @@
 ---
 name: sum
-pack: training_pack
+pack: PACK1
 runner_type: "python-script"
-description: print hello world!
+description: sum of two number
 enabled: true
 entry_point: sum.py
 parameters:
