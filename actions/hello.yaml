@@ -1,6 +1,6 @@
 ---
 name: hello
-pack: training_pack
+pack: pack1
 runner_type: "python-script"
 description: print hello world!
 enabled: true
