@@ -1,6 +1,6 @@
 ---
 name: sum
-pack: PACK1
+pack: pack1
 runner_type: "python-script"
 description: sum of two number
 enabled: true
